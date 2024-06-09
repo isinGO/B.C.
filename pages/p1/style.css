@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to top, rgba(255, 242, 125, 1), rgba(45, 217, 255, 1));
+}
+header{
+  border: 1px, solid, black;
+  height: 45px;
+  border-radius: 25px;
+  background-color: rgba(217, 217, 217, 0.54);
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+header a{
+  text-decoration: none;
+  color: black;
+  padding-left: 30px; ;
+}
+
+.sophia-container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.sophia-text {
+  text-align: justify;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+}
+
+
